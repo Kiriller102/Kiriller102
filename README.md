@@ -19,24 +19,24 @@
 
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Kiriller102)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Kiriller102)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Kiriller102)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Kiriller102)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Kiriller102)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Kiriller102)
 [![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/Kiriller102)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Kiriller102)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Kiriller102)
 
 ### Technologies & Frameworks
 [![QT](https://img.shields.io/badge/QT-black?style=for-the-badge&logo=QT)](https://github.com/Kiriller102)
 [![Boost](https://img.shields.io/badge/Boost-black?style=for-the-badge&logo=cplusplus)](https://github.com/Kiriller102)
 [![PyGame](https://img.shields.io/badge/PyGame-black?style=for-the-badge&logo=python)](https://github.com/Kiriller102)
-[![NumPy]((https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=python))](https://github.com/Kiriller102)
-[![SQLite]((https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite))](https://github.com/Kiriller102)
+[![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=python)](https://github.com/Kiriller102)
+[![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)](https://github.com/Kiriller102)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/kiriller102)
 
 ### OS
+[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple)](https://github.com/Kiriller102)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Kiriller102)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Kiriller102)
-[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple)](https://github.com/Kiriller102)
 
 <details>
 <p align="center">
