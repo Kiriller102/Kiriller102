@@ -26,11 +26,11 @@
 [![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/Kiriller102)
 
 ### Technologies & Frameworks
-![QT](https://img.shields.io/badge/QT-black?style=for-the-badge&logo=QT)
-![Boost](https://img.shields.io/badge/Boost-black?style=for-the-badge&logo=cplusplus)
-![PyGame](https://img.shields.io/badge/PyGame-black?style=for-the-badge&logo=python)
-![NumPy]((https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=python))
-![SQLite]((https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite))
+[![QT](https://img.shields.io/badge/QT-black?style=for-the-badge&logo=QT)](https://github.com/Kiriller102)
+[![Boost](https://img.shields.io/badge/Boost-black?style=for-the-badge&logo=cplusplus)](https://github.com/Kiriller102)
+[![PyGame](https://img.shields.io/badge/PyGame-black?style=for-the-badge&logo=python)](https://github.com/Kiriller102)
+[![NumPy]((https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=python))](https://github.com/Kiriller102)
+[![SQLite]((https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite))](https://github.com/Kiriller102)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/kiriller102)
 
 ### OS
