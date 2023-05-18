@@ -50,10 +50,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Kiriller102&theme=transparent&hide=issues,contribs&show_icons=true)](https://github.com/meteorych/github-readme-stats" />
   </a>
   <a href="https://github.com/Kiriller102">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kiriller102&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiriller102&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/Kiriller102">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiriller102&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kiriller102&theme=transparent" />
   </a>
 </p>
 </details>
