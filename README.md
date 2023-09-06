@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Kirill.<br>
-        I am a second-year student in the <a href="https://fpmi.bsu.by/en/main.aspx">Applied Informatics program</a><br> at <a href="https://bsu.by/en/"> Belarusian State University (BSU)</a>, specializing in software development.
+        I am a third-year student in the <a href="https://fpmi.bsu.by/en/main.aspx">Applied Informatics program</a><br> at <a href="https://bsu.by/en/"> Belarusian State University (BSU)</a>, specializing in software development.
     </i><br>
     <a href="https://www.linkedin.com/in/Kirill-zavadsky-13a76a221/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
