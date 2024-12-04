@@ -19,6 +19,7 @@
 
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Kiriller102)
+[![GO](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/Kiriller102)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Kiriller102)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Kiriller102)
 [![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/Kiriller102)
